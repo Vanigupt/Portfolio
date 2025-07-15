@@ -2,13 +2,11 @@
 
 This repository contains the source code for my **personal portfolio website**, created using **HTML** and **CSS**. The website is designed to highlight my skills, projects, education, and provide a way to get in touch.
 
----
 
 ## 🌐 Live Demo
 
-🔗 [View Live Portfolio](https://your-username.github.io/portfolio)  
+🔗 [View Live Portfolio](https://vanigupt.github.io/Portfolio/)  
 
----
 
 ## 🛠 Technologies Used
 
@@ -17,7 +15,6 @@ This repository contains the source code for my **personal portfolio website**, 
 - Google Fonts  
 - Font Awesome (for icons)  
 
----
 
 ## 📁 Features
 
@@ -27,16 +24,13 @@ This repository contains the source code for my **personal portfolio website**, 
 ✅ Sections include: Home, About, Skills, Projects, Contact  
 ✅ Contact form (static) and social media links
 
----
 
 ## 📸 Preview
 
-![Portfolio Preview](preview-image.png)  
-*(Include a screenshot named `preview-image.png` in your project folder)*
+![Portfolio Preview](portfolio.png)  
 
----
 
 📬 Contact
 📧 Email: guptavani901@example.com
-🔗 LinkedIn: Your Name
-🌐 Portfolio: yourwebsite.com
+🔗 LinkedIn: [Vani Gupta](https://www.linkedin.com/in/vani-gupta-952125253)
+🌐 Portfolio: [Website](https://vanigupt.github.io/Portfolio/)
