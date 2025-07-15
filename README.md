@@ -30,7 +30,10 @@ This repository contains the source code for my **personal portfolio website**, 
 ![Portfolio Preview](portfolio.png)  
 
 
-📬 Contact
+## 📬 Contact
+
 📧 Email: guptavani901@example.com
+
 🔗 LinkedIn: [Vani Gupta](https://www.linkedin.com/in/vani-gupta-952125253)
+
 🌐 Portfolio: [Website](https://vanigupt.github.io/Portfolio/)
